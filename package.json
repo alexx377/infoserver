@@ -1,0 +1,28 @@
+{
+  "name": "infoserver",
+  "version": "1.0.0",
+  "description": "Сервер сбора информации от приложения informer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexx377/infoserver.git"
+  },
+  "keywords": [
+    "informer",
+    "server"
+  ],
+  "author": "Alexx S.",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/alexx377/infoserver/issues"
+  },
+  "homepage": "https://github.com/alexx377/infoserver#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "pug": "^3.0.2"
+  }
+}
