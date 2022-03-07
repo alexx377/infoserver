@@ -1,0 +1,9 @@
+{
+  "listen_port": "3030",
+  "database": {
+    "server": "localhost",
+    "user": "info",
+    "password": "20121985",
+    "database": "info"
+  }
+}
